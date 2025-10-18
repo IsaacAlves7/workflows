@@ -46,3 +46,5 @@ Por exemplo, se você tem um script Python chamado `processar_dados.py`, você p
 Essa linha executaria o script a cada 30 minutos. Para garantir que o script funcione corretamente, é importante configurar corretamente os caminhos absolutos e garantir que as permissões e ambientes estejam acessíveis (por exemplo, variáveis de ambiente, diretórios virtuais, dependências etc.).
 
 Em ambientes mais robustos, como quando se usa Python com frameworks como Django ou Flask, também é comum centralizar a lógica de agendamento e acionar os scripts com cron, da mesma forma que o Laravel faz com `schedule:run`. O Django, por exemplo, não tem um sistema de agendamento interno como o Laravel, então você geralmente define suas tarefas em arquivos separados (ou usa bibliotecas como `django-celery` com agendadores próprios), e o cron serve como mecanismo de disparo externo.
+
+![Data version control](https://github.com/user-attachments/assets/859dc68c-33da-4cc2-8d80-9ce1ecc67b43)

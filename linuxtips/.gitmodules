@@ -1,0 +1,3 @@
+[submodule "composes/5/giropops-monitoring"]
+	path = composes/5/giropops-monitoring
+	url = https://github.com/badtuxx/giropops-monitoring

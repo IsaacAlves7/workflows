@@ -1,3 +1,5 @@
+<img width="600" height="400" alt="What+is+RAG+AI" src="https://github.com/user-attachments/assets/3a288b11-4268-4113-8104-7582eb390f13" />
+
 # ⏱ Workflows
 <img src="https://user-images.githubusercontent.com/61624336/234996362-0217ee9a-b372-4567-b770-28a6a9102c1f.png" height="77" align="right">
 
